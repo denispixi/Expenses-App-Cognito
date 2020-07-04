@@ -1,0 +1,11 @@
+{
+    "editor.formatOnSave": true,
+    "emmet.showAbbreviationSuggestions": false,
+    "emmet.showExpandedAbbreviation": "never",
+    "emmet.showSuggestionsAsSnippets": false,
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 80,
+    "[xml]": {
+        "editor.formatOnSave": false,
+    },
+}
